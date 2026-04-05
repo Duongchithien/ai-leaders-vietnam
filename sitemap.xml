@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aileaders.vn/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/" />
+  </url>
+  <url>
+    <loc>https://aileaders.vn/ai-agency-vietnam</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/ai-agency-vietnam" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/ai-agency-vietnam" />
+  </url>
+  <url>
+    <loc>https://aileaders.vn/services</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/services" />
+  </url>
+  <url>
+    <loc>https://aileaders.vn/about</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/about" />
+  </url>
+  <url>
+    <loc>https://aileaders.vn/case-studies</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/case-studies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/case-studies" />
+  </url>
+  <url>
+    <loc>https://aileaders.vn/ai-glossary</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/ai-glossary" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/ai-glossary" />
+  </url>
+  <url>
+    <loc>https://aileaders.vn/blog</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/blog" />
+  </url>
+  <url>
+    <loc>https://aileaders.vn/newsletter</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://aileaders.vn/newsletter" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aileaders.vn/newsletter" />
+  </url>
+</urlset>

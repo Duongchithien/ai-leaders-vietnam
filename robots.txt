@@ -1,0 +1,68 @@
+# AI Leaders Vietnam — robots.txt
+# Updated for AI Search Engine Optimization (AI SEO / GEO)
+# Allow all search engines and AI crawlers for maximum discoverability
+
+# General search engines
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_internal/
+
+# Google (Search + AI Overviews)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Bing (Search + Copilot)
+User-agent: Bingbot
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic / Claude
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Apple (Siri / Spotlight)
+User-agent: Applebot
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# Common Crawl (used by many AI models)
+User-agent: CCBot
+Allow: /
+
+# Bytedance / TikTok
+User-agent: Bytespider
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+
+# Sitemaps
+Sitemap: https://aileaders.vn/sitemap.xml
