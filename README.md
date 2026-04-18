@@ -89,7 +89,7 @@ npx serve ai-leaders-github -p 8080
 
 ## Lưu ý quan trọng
 
-- **Hình ảnh:** Tất cả hình ảnh đã được host trên CDN CloudFront, không cần lưu local.
+- **Hình ảnh:** Tất cả hình ảnh đã được host trên CDN CloudFront, không cần lưu local -> Đã chuyển sang github
 - **SPA Routing:** File `404.html` đảm bảo routing hoạt động đúng trên GitHub Pages (React Router).
 - **AI SEO:** Website đã được tối ưu cho Google AI Overview, ChatGPT, Perplexity với Schema Markup JSON-LD.
 - **Google Search Console:** Đã tích hợp verification tag. Submit sitemap tại: `https://aileaders.vn/sitemap.xml`
